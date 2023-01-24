@@ -10,5 +10,5 @@ int main() {
     cout << "Enter password: ";
     cin >> input;
     
-
+    system("pause");
 }
